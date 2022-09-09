@@ -1,0 +1,19 @@
+{
+  "name": "new-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ng test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/organizationteste12/Teste1.git"
+  },
+  "author": "André",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/organizationteste12/Teste1/issues"
+  },
+  "homepage": "https://github.com/organizationteste12/Teste1#readme"
+}
